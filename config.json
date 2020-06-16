@@ -1,6 +1,7 @@
 {
 	"name": "TwitterLoader",
 	"researchID": 20,
-	"limit": 200,
+	"limit": 20,
+	"output": "mongo",
 	"hashtag": "#fontys"
 }	
